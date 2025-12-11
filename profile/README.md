@@ -31,7 +31,9 @@
 
 Татаринцева Екатерина (Frontend) - [https://github.com/lolikatena]
 
-Пронин Михаил (QA/DevOps) - [https://github.com/m1pr0]
+Пронин Михаил (DevOps) - [https://github.com/m1pr0]
+
+Ефремочкин Андрей (QA) - [https://github.com/andreybvt2404]
 
 Браганец Александра (Project Manager) - [https://github.com/Corverr]
 
