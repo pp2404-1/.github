@@ -23,12 +23,6 @@
 
 docker-compose up -d
 
-**4. Откройте в браузере**:
-
-Frontend: http://localhost:3000
-
-API документация: http://localhost:8000/docs
-
 ## Наши разработчики
 
 Дубровин Александр (Team Lead / Архитектор / ML) - [https://github.com/Pe4en1e]
