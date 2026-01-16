@@ -22,6 +22,28 @@
 
 docker-compose up -d
 
+##Минимальная конфигурация:
+CPU: 4 ядра
+RAM: 12 GB
+Диск: 20 GB SSD
+ОС: Windows 10/11, Ubuntu 20.04+, macOS 11+
+Софт: Docker Desktop 20.10+
+
+##Рекомендуемая конфигурация:
+CPU: 6+ ядер
+RAM: 16+ GB
+Диск: 30+ GB SSD
+ОС: Ubuntu 22.04 LTS или Windows 11
+Софт: Docker Desktop 24.0+
+
+##Оптимальная конфигурация:
+CPU: 8+ ядер
+RAM: 32+ GB
+Диск: 50+ GB NVMe SSD
+GPU: Nvidia с 8+ GB VRAM (опционально)
+ОС: Ubuntu Server 22.04 LTS
+Софт: Docker Engine 24.0+ + Compose v
+
 ## Наши разработчики
 
 Дубровин Александр (Team Lead / Архитектор / ML) - [https://github.com/Pe4en1e]
